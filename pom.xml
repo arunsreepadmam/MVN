@@ -11,9 +11,8 @@
 
 
 	<scm>
-		<url>http://code.google.com/p/morphia/source/browse</url>
-		<connection>scm:svn:http://morphia.googlecode.com/svn/trunk</connection>
-		<developerConnection>scm:svn:https://morphia.googlecode.com/svn/trunk</developerConnection>
+		<connection>scm:git:git@github.com:alevohin/MVN.git</connection>
+		<developerConnection>scm:git:git@github.com:alevohin/MVN.git</developerConnection>
 	</scm>
 
 	<developers>
@@ -78,13 +77,6 @@
 				<artifactId>maven-resources-plugin</artifactId>
 				<configuration>
 					<encoding>UTF-8</encoding>
-				</configuration>
-			</plugin>
-			<plugin>
-				<groupId>com.mycila.maven-license-plugin</groupId>
-				<artifactId>maven-license-plugin</artifactId>
-				<configuration>
-					<header>src/etc/header.txt</header>
 				</configuration>
 			</plugin>
 			<plugin>
@@ -158,23 +150,6 @@
 			</plugin>
 		</plugins>
 	</reporting>
-
-	<distributionManagement>
-		<site>
-			<id>morphia-googlecode</id>
-			<url>svn:https://morphia.googlecode.com/svn/site</url>
-		</site>
-		<repository>
-			<uniqueVersion>false</uniqueVersion>
-			<id>morphia-googlecode</id>
-			<url>svn:https://morphia.googlecode.com/svn/mavenrepo</url>
-		</repository>
-		<snapshotRepository>
-			<uniqueVersion>true</uniqueVersion>
-			<id>morphia-googlecode</id>
-			<url>svn:https://morphia.googlecode.com/svn/mavenrepo</url>
-		</snapshotRepository>
-	</distributionManagement>
 
 	<modules>
 		<module>morphia</module>
