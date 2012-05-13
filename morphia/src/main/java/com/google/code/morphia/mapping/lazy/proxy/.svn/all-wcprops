@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/663/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/proxy
+END
+ProxyHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/476/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/proxy/ProxyHelper.java
+END
+ProxiedEntityReferenceList.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/663/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/proxy/ProxiedEntityReferenceList.java
+END
+AbstractReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/573/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/proxy/AbstractReference.java
+END
+ProxiedEntityReferenceMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/476/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/proxy/ProxiedEntityReferenceMap.java
+END
+LazyReferenceFetchingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/476/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/proxy/LazyReferenceFetchingException.java
+END
+ProxiedEntityReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/476/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/proxy/ProxiedEntityReference.java
+END
+SerializableCollectionObjectReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/663/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/proxy/SerializableCollectionObjectReference.java
+END
+SerializableEntityObjectReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/476/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/proxy/SerializableEntityObjectReference.java
+END
+ProxiedReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/476/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/proxy/ProxiedReference.java
+END
+SerializableMapObjectReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/476/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/proxy/SerializableMapObjectReference.java
+END

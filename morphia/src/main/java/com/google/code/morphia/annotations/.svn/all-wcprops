@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1806/trunk/morphia/src/main/java/com/google/code/morphia/annotations
+END
+PostPersist.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/211/trunk/morphia/src/main/java/com/google/code/morphia/annotations/PostPersist.java
+END
+Indexes.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1148/trunk/morphia/src/main/java/com/google/code/morphia/annotations/Indexes.java
+END
+PrePersist.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/616/trunk/morphia/src/main/java/com/google/code/morphia/annotations/PrePersist.java
+END
+ConstructorArgs.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1311/trunk/morphia/src/main/java/com/google/code/morphia/annotations/ConstructorArgs.java
+END
+Polymorphic.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/215/trunk/morphia/src/main/java/com/google/code/morphia/annotations/Polymorphic.java
+END
+EntityListeners.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/267/trunk/morphia/src/main/java/com/google/code/morphia/annotations/EntityListeners.java
+END
+PreSave.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1466/trunk/morphia/src/main/java/com/google/code/morphia/annotations/PreSave.java
+END
+Transient.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/211/trunk/morphia/src/main/java/com/google/code/morphia/annotations/Transient.java
+END
+Index.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1806/trunk/morphia/src/main/java/com/google/code/morphia/annotations/Index.java
+END
+Entity.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1731/trunk/morphia/src/main/java/com/google/code/morphia/annotations/Entity.java
+END
+Indexed.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1453/trunk/morphia/src/main/java/com/google/code/morphia/annotations/Indexed.java
+END
+CappedAt.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/178/trunk/morphia/src/main/java/com/google/code/morphia/annotations/CappedAt.java
+END
+NotSaved.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1769/trunk/morphia/src/main/java/com/google/code/morphia/annotations/NotSaved.java
+END
+Property.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/211/trunk/morphia/src/main/java/com/google/code/morphia/annotations/Property.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/476/trunk/morphia/src/main/java/com/google/code/morphia/annotations/Version.java
+END
+PostLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/211/trunk/morphia/src/main/java/com/google/code/morphia/annotations/PostLoad.java
+END
+PreLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/211/trunk/morphia/src/main/java/com/google/code/morphia/annotations/PreLoad.java
+END
+Embedded.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/211/trunk/morphia/src/main/java/com/google/code/morphia/annotations/Embedded.java
+END
+Converters.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1163/trunk/morphia/src/main/java/com/google/code/morphia/annotations/Converters.java
+END
+Serialized.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/476/trunk/morphia/src/main/java/com/google/code/morphia/annotations/Serialized.java
+END
+Id.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/211/trunk/morphia/src/main/java/com/google/code/morphia/annotations/Id.java
+END
+AlsoLoad.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/715/trunk/morphia/src/main/java/com/google/code/morphia/annotations/AlsoLoad.java
+END
+Reference.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1069/trunk/morphia/src/main/java/com/google/code/morphia/annotations/Reference.java
+END

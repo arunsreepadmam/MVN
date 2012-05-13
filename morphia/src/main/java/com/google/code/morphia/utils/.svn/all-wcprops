@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1769/trunk/morphia/src/main/java/com/google/code/morphia/utils
+END
+Helper.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1647/trunk/morphia/src/main/java/com/google/code/morphia/utils/Helper.java
+END
+Assert.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1174/trunk/morphia/src/main/java/com/google/code/morphia/utils/Assert.java
+END
+IterHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1769/trunk/morphia/src/main/java/com/google/code/morphia/utils/IterHelper.java
+END
+FieldName.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1723/trunk/morphia/src/main/java/com/google/code/morphia/utils/FieldName.java
+END
+IndexDirection.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1206/trunk/morphia/src/main/java/com/google/code/morphia/utils/IndexDirection.java
+END
+LongIdEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/851/trunk/morphia/src/main/java/com/google/code/morphia/utils/LongIdEntity.java
+END
+IndexFieldDef.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1148/trunk/morphia/src/main/java/com/google/code/morphia/utils/IndexFieldDef.java
+END
+ReflectionUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1769/trunk/morphia/src/main/java/com/google/code/morphia/utils/ReflectionUtils.java
+END

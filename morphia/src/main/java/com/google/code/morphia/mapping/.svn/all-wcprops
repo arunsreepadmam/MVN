@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1804/trunk/morphia/src/main/java/com/google/code/morphia/mapping
+END
+CustomMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1769/trunk/morphia/src/main/java/com/google/code/morphia/mapping/CustomMapper.java
+END
+MapperOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1174/trunk/morphia/src/main/java/com/google/code/morphia/mapping/MapperOptions.java
+END
+ValueMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1769/trunk/morphia/src/main/java/com/google/code/morphia/mapping/ValueMapper.java
+END
+ReferenceMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1769/trunk/morphia/src/main/java/com/google/code/morphia/mapping/ReferenceMapper.java
+END
+DefaultCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1783/trunk/morphia/src/main/java/com/google/code/morphia/mapping/DefaultCreator.java
+END
+Mapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1804/trunk/morphia/src/main/java/com/google/code/morphia/mapping/Mapper.java
+END
+Serializer.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/476/trunk/morphia/src/main/java/com/google/code/morphia/mapping/Serializer.java
+END
+MappingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/210/trunk/morphia/src/main/java/com/google/code/morphia/mapping/MappingException.java
+END
+MappedField.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1789/trunk/morphia/src/main/java/com/google/code/morphia/mapping/MappedField.java
+END
+MappedClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1789/trunk/morphia/src/main/java/com/google/code/morphia/mapping/MappedClass.java
+END
+MapOrCollectionMF.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1647/trunk/morphia/src/main/java/com/google/code/morphia/mapping/MapOrCollectionMF.java
+END
+EmbeddedMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1781/trunk/morphia/src/main/java/com/google/code/morphia/mapping/EmbeddedMapper.java
+END

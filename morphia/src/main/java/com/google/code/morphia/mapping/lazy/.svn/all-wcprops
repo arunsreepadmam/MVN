@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1004/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy
+END
+DatastoreProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/476/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/DatastoreProvider.java
+END
+LazyFeatureDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1004/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/LazyFeatureDependencies.java
+END
+DatastoreHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/476/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/DatastoreHolder.java
+END
+DefaultDatastoreProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/476/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/DefaultDatastoreProvider.java
+END
+NonFinalizingHotSwappingInvoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/672/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/NonFinalizingHotSwappingInvoker.java
+END
+LazyProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/476/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/LazyProxyFactory.java
+END
+CGLibLazyProxyFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/669/trunk/morphia/src/main/java/com/google/code/morphia/mapping/lazy/CGLibLazyProxyFactory.java
+END

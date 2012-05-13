@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1815/trunk/morphia/src/main/java/com/google/code/morphia/query
+END
+UpdateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1171/trunk/morphia/src/main/java/com/google/code/morphia/query/UpdateException.java
+END
+FilterOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1758/trunk/morphia/src/main/java/com/google/code/morphia/query/FilterOperator.java
+END
+GeoFieldCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1758/trunk/morphia/src/main/java/com/google/code/morphia/query/GeoFieldCriteria.java
+END
+Criteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1773/trunk/morphia/src/main/java/com/google/code/morphia/query/Criteria.java
+END
+UpdateResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1149/trunk/morphia/src/main/java/com/google/code/morphia/query/UpdateResults.java
+END
+CriteriaContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1132/trunk/morphia/src/main/java/com/google/code/morphia/query/CriteriaContainer.java
+END
+Query.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1811/trunk/morphia/src/main/java/com/google/code/morphia/query/Query.java
+END
+FieldCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1814/trunk/morphia/src/main/java/com/google/code/morphia/query/FieldCriteria.java
+END
+ValidationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1270/trunk/morphia/src/main/java/com/google/code/morphia/query/ValidationException.java
+END
+MorphiaIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1769/trunk/morphia/src/main/java/com/google/code/morphia/query/MorphiaIterator.java
+END
+FieldEnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1648/trunk/morphia/src/main/java/com/google/code/morphia/query/FieldEnd.java
+END
+MorphiaKeyIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1769/trunk/morphia/src/main/java/com/google/code/morphia/query/MorphiaKeyIterator.java
+END
+CriteriaJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1069/trunk/morphia/src/main/java/com/google/code/morphia/query/CriteriaJoin.java
+END
+QueryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1171/trunk/morphia/src/main/java/com/google/code/morphia/query/QueryException.java
+END
+AbstractCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1069/trunk/morphia/src/main/java/com/google/code/morphia/query/AbstractCriteria.java
+END
+UpdateOpsImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1478/trunk/morphia/src/main/java/com/google/code/morphia/query/UpdateOpsImpl.java
+END
+UpdateOperations.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1270/trunk/morphia/src/main/java/com/google/code/morphia/query/UpdateOperations.java
+END
+CriteriaContainerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1814/trunk/morphia/src/main/java/com/google/code/morphia/query/CriteriaContainerImpl.java
+END
+QueryResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1736/trunk/morphia/src/main/java/com/google/code/morphia/query/QueryResults.java
+END
+QueryImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1811/trunk/morphia/src/main/java/com/google/code/morphia/query/QueryImpl.java
+END
+FieldEndImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1815/trunk/morphia/src/main/java/com/google/code/morphia/query/FieldEndImpl.java
+END
+WhereCriteria.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1814/trunk/morphia/src/main/java/com/google/code/morphia/query/WhereCriteria.java
+END
+UpdateOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1502/trunk/morphia/src/main/java/com/google/code/morphia/query/UpdateOperator.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1171/trunk/morphia/src/main/java/com/google/code/morphia/mapping/cache
+END
+EntityCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/670/trunk/morphia/src/main/java/com/google/code/morphia/mapping/cache/EntityCache.java
+END
+DefaultEntityCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1171/trunk/morphia/src/main/java/com/google/code/morphia/mapping/cache/DefaultEntityCache.java
+END
+EntityCacheStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1171/trunk/morphia/src/main/java/com/google/code/morphia/mapping/cache/EntityCacheStatistics.java
+END

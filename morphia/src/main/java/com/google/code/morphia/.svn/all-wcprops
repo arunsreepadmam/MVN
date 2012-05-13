@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1815/trunk/morphia/src/main/java/com/google/code/morphia
+END
+Morphia.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1769/trunk/morphia/src/main/java/com/google/code/morphia/Morphia.java
+END
+AbstractEntityInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/601/trunk/morphia/src/main/java/com/google/code/morphia/AbstractEntityInterceptor.java
+END
+DAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1283/trunk/morphia/src/main/java/com/google/code/morphia/DAO.java
+END
+VersionHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1759/trunk/morphia/src/main/java/com/google/code/morphia/VersionHelper.java
+END
+Datastore.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1806/trunk/morphia/src/main/java/com/google/code/morphia/Datastore.java
+END
+MapreduceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1514/trunk/morphia/src/main/java/com/google/code/morphia/MapreduceType.java
+END
+DatastoreService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/307/trunk/morphia/src/main/java/com/google/code/morphia/DatastoreService.java
+END
+MapreduceResults.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1814/trunk/morphia/src/main/java/com/google/code/morphia/MapreduceResults.java
+END
+DatastoreImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1814/trunk/morphia/src/main/java/com/google/code/morphia/DatastoreImpl.java
+END
+Key.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1765/trunk/morphia/src/main/java/com/google/code/morphia/Key.java
+END
+EntityInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/601/trunk/morphia/src/main/java/com/google/code/morphia/EntityInterceptor.java
+END
+AdvancedDatastore.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1812/trunk/morphia/src/main/java/com/google/code/morphia/AdvancedDatastore.java
+END
+AuthenticationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1588/trunk/morphia/src/main/java/com/google/code/morphia/AuthenticationException.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1311/trunk/morphia/src/main/java/com/google/code/morphia/ObjectFactory.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1769/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/classrules
+END
+FieldEnumString.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/568/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/classrules/FieldEnumString.java
+END
+ContainsEmbeddedWithId.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/530/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/classrules/ContainsEmbeddedWithId.java
+END
+MultipleVersions.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/530/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/classrules/MultipleVersions.java
+END
+DuplicatedAttributeNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/564/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/classrules/DuplicatedAttributeNames.java
+END
+MultipleId.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/530/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/classrules/MultipleId.java
+END
+EmbeddedAndValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/530/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/classrules/EmbeddedAndValue.java
+END
+NoId.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/530/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/classrules/NoId.java
+END
+EmbeddedAndId.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/530/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/classrules/EmbeddedAndId.java
+END
+EntityAndEmbed.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/530/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/classrules/EntityAndEmbed.java
+END
+EntityCannotBeMapOrIterable.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/1530/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/classrules/EntityCannotBeMapOrIterable.java
+END

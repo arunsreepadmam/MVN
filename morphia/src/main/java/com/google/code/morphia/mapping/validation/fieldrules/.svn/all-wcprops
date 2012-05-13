@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1531/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/fieldrules
+END
+LazyReferenceMissingDependencies.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/530/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/fieldrules/LazyReferenceMissingDependencies.java
+END
+ReferenceToUnidentifiable.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1134/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/fieldrules/ReferenceToUnidentifiable.java
+END
+MapNotSerializable.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/530/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/fieldrules/MapNotSerializable.java
+END
+IdDoesNotMix.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/761/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/fieldrules/IdDoesNotMix.java
+END
+MisplacedProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/1148/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/fieldrules/MisplacedProperty.java
+END
+ContradictingFieldAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/530/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/fieldrules/ContradictingFieldAnnotation.java
+END
+FieldConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/1174/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/fieldrules/FieldConstraint.java
+END
+MapKeyDifferentFromString.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1531/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/fieldrules/MapKeyDifferentFromString.java
+END
+LazyReferenceOnArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/530/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/fieldrules/LazyReferenceOnArray.java
+END
+VersionMisuse.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1177/trunk/morphia/src/main/java/com/google/code/morphia/mapping/validation/fieldrules/VersionMisuse.java
+END
