@@ -8,20 +8,6 @@
 	<name>Morphia Build</name>
 	<description>Build Project for Morphia</description>
 
-
-	<scm>
-		<connection>scm:git:git@github.com:alevohin/MVN.git</connection>
-		<developerConnection>scm:git:git@github.com:alevohin/MVN.git</developerConnection>
-	  <tag>HEAD</tag>
-  </scm>
-
-	<developers>
-		<developer>
-			<id>yuriy.alevohin</id>
-			<name>Yuriy Alevohin</name>
-		</developer>		
-	</developers>
-
 	<dependencies>
 		<dependency>
 			<groupId>org.mongodb</groupId>
